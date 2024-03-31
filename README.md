@@ -1,4 +1,15 @@
-(https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Sun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-<h3>📞Contact📞</h3>
-<hr>
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kkj80911@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https:#">
+        <img src="https://img.shields.io/badge/
+        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/su_nfp">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
