@@ -2,7 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun-gwang&show_icons=true&theme=default)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmakdmak12)](https://solved.ac/sun-gwang/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kc5353)](https://solved.ac/kc5353/)
 
 <h2 align="center"> My Tech Stack 📚</h2>
 <p align="center">
