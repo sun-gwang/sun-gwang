@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=Welcome%20to%20Sun's%20GitHub!🖐️%20&fontSize=45)
 
-<p align="center">안녕하세요 백엔드 공부를 하고 있는 김선광입니다.</p><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun-gwang&show_icons=true&theme=default)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmakdmak12)](https://solved.ac/sun-gwang/)
+
 <h2 align="center"> My Tech Stack 📚</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
@@ -24,6 +27,7 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 </p>
 <br><br>
+
 
 <h2 align="center">📞 Contact 📞</h2>
 <div style="display:flex; flex-direction:row;">
