@@ -31,6 +31,8 @@
 
 <h2 align="center">📞 Contact 📞</h2>
 <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=GitHub&logoColor=white">
+  
 gmail instagram kakaotalk discord
 
 
