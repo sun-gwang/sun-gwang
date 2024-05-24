@@ -31,9 +31,21 @@
 
 <h2 align="center">📞 Contact 📞</h2>
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=GitHub&logoColor=white">
-  
-gmail instagram kakaotalk discord
+    
+<p align="center">
+    <a href="https://mail.google.com/mail/u/0/?hl=ko#inbox">
+        <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/su_nfp/">
+        <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white">
+    </a>
+     <a href="http://qr.kakao.com/talk/tG50lbA_yEE963hSHHXSKyYgbZg-">
+        <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat&logo=kakaotalk&logoColor=white">
+    </a>
+     <a href="#">
+        <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white">
+    </a>
+</p>
 
 
 <!--
